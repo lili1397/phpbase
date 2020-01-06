@@ -1,2 +1,4 @@
 # phpbase
-A PHP develop learn repository. create on 20190106
+A PHP web page development learn repository.
+Create on 2019/1/6.
+Update irregularly.
