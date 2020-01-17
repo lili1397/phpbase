@@ -5,17 +5,17 @@ Update irregularly.
 
 Project: 01_webform
 --------------------------------------------------------
-ŠT—vi“ú–{Œêj
-PHP‚ÅÀ‘•‚³‚ê‚½ƒIƒ“ƒ‰ƒCƒ“‚Ìƒ†[ƒU‚¨–â‡‚¹ó•t‹@”\B
-İ’è‚³‚ê‚½’S“–Òƒ[ƒ‹‚É–â‡‚¹“à—e‚ª‘—M‚³‚ê‚Ü‚·B
-‘—M“à—e‚ÌƒNƒ‰ƒCƒAƒ“ƒg‘¤“ü—Íƒ`ƒFƒbƒNAUTF-8ƒGƒ“ƒR[ƒh‚ªÀ‘•‚³‚ê‚Ä‚¢‚Ü‚·B
-WebƒT[ƒo‚Émb_send_mail()‚Ì—LŒø‚ª•K—v‚Å‚·B
-‰æ–Ê\¬Fu“ü—Í‰æ–Êv©¨uŠm”F‰æ–Êv¨uŠ®—¹‰æ–Êv
+æ¦‚è¦ï¼ˆæ—¥æœ¬èªï¼‰
+PHPã§å®Ÿè£…ã•ã‚ŒãŸã‚ªãƒ³ãƒ©ã‚¤ãƒ³ã®ãƒ¦ãƒ¼ã‚¶ãŠå•åˆã›å—ä»˜æ©Ÿèƒ½ã€‚
+è¨­å®šã•ã‚ŒãŸæ‹…å½“è€…ãƒ¡ãƒ¼ãƒ«ã«å•åˆã›å†…å®¹ãŒé€ä¿¡ã•ã‚Œã¾ã™ã€‚
+é€ä¿¡å†…å®¹ã®ã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆå´å…¥åŠ›ãƒã‚§ãƒƒã‚¯ã€UTF-8ã‚¨ãƒ³ã‚³ãƒ¼ãƒ‰ãŒå®Ÿè£…ã•ã‚Œã¦ã„ã¾ã™ã€‚
+Webã‚µãƒ¼ãƒã«mb_send_mail()ã®æœ‰åŠ¹ãŒå¿…è¦ã§ã™ã€‚
+ç”»é¢æ§‹æˆï¼šã€Œå…¥åŠ›ç”»é¢ã€â†â†’ã€Œç¢ºèªç”»é¢ã€â†’ã€Œå®Œäº†ç”»é¢ã€
 --------------------------------------------------------
 Overview(English) 
 An online user inquiry reception function implemented in PHP.
 Inquiry form contents are sent to the set person in charge mail.
 Client side input check, UTF-8 encoding is implemented.
 Mb_send_mail () must be enabled on the web server.
-Screen configuration: gInput screenh © ¨ gConfirmation screenh ¨ gCompletion screenh
+Screen configuration: â€œInput screenâ€ â† â†’ â€œConfirmation screenâ€ â†’ â€œCompletion screenâ€
 --------------------------------------------------------
