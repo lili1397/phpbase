@@ -13,7 +13,7 @@ PHPで実装されたオンラインのユーザお問合せ受付機能。
 送信内容のクライアント側入力チェック、UTF-8エンコードが実装されています。  
 Webサーバにmb_send_mail()の有効が必要です。  
 画面構成：「入力画面」←→「確認画面」→「完了画面」  
-***
+
 ### 💎Overview(English)
 
 An online user inquiry reception function implemented in PHP.  
