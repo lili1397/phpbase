@@ -22,3 +22,17 @@ Client side input check, UTF-8 encoding is implemented.
 Mb_send_mail () must be enabled on the web server.  
 Screen configuration: “Input screen” ← → “Confirmation screen” → “Completion screen”  
 ***
+
+***
+## 🎁Project: 02_sakura_editor_javascript_keyword_help
+
+### 💎概要（日本語）
+
+サクラエディタ用JavaScriptキーワード MEMORVA版
+Y.Oshima さんが纏めたものです、活用させて頂きます。
+
+### 💎Overview(English)
+
+Javascript keywords list for sakura text editor.
+Share by Y.Oshima.
+
